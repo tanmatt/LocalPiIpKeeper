@@ -1,0 +1,1 @@
+@hourly cd /media/pi/Transcend/workspace/LocalPiIpKeeper && /usr/bin/python get_ip.py && git add --all && git commit -m "Update to changed IP" && git push
