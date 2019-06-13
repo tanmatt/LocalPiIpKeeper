@@ -1,1 +1,1 @@
-192.168.1.2
+This can be `considered`  as static ip now
