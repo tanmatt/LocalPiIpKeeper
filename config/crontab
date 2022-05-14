@@ -1,2 +1,2 @@
 # Runs every 6 hours
-0 */6 * * * cd /media/pi/transcend/workspace/LocalPiIpKeeper && /usr/bin/python get_ip.py && git add --all && git commit -m "Update success $date" && git push
+0 */6 * * * cd /media/pi/transcend/workspace/LocalPiIpKeeper && /usr/bin/python get_ip.py && git add --all && git commit -m "Update success on `date`" && git push
