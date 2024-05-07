@@ -12,5 +12,5 @@ This project is a workaround to keep a log of local IP address of the device thi
 ### Latest
 - Local IP address: 192.168.1.88
 - Host name: raspberrypi
-- Log: Mon May  6 11:00:04 2024 | Success
+- Log: Mon May  6 22:00:04 2024 | Success
 
